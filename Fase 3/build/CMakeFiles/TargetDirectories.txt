@@ -1,0 +1,4 @@
+/home/rui/Videos/CG_-main/build/CMakeFiles/rebuild_cache.dir
+/home/rui/Videos/CG_-main/build/CMakeFiles/edit_cache.dir
+/home/rui/Videos/CG_-main/build/CMakeFiles/generator.dir
+/home/rui/Videos/CG_-main/build/CMakeFiles/engine.dir
