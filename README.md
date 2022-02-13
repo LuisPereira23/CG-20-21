@@ -1,1 +1,2 @@
-# CG-2021
+# Graphical Computing
+# OpenGL
